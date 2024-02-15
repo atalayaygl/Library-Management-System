@@ -16,7 +16,7 @@ This is a simple command-line based Library Management System written in Python.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/atalayaygl/Library-Management-System.git
    ```
 
 2. Navigate to the project directory:
@@ -28,7 +28,7 @@ This is a simple command-line based Library Management System written in Python.
 3. Run the program:
 
    ```
-   python library.py
+   python library_management_system.py
    ```
 
 4. Follow the on-screen instructions to interact with the Library Management System.
